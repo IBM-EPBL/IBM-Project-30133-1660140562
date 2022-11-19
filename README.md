@@ -53,10 +53,30 @@ M.I.E.T ENGINEERING COLLEGE
 
 
 ## Project Design & Planning
-- [Ideation Phase](https://github.com/IBM-EPBL/IBM-Project-30133-1660140562/tree/main/Ideation%20Phase)
+
+- [Ideation Phase](https://github.com/IBM-EPBL/IBM-Project-30133-1660140562/tree/main/Project%20Design%20%26%20Planning/Ideation%20Phase)
 - [Project Design Phase-l](https://github.com/IBM-EPBL/IBM-Project-30133-1660140562/tree/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase-l)
 - [Project Design Phase ll](https://github.com/IBM-EPBL/IBM-Project-30133-1660140562/tree/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase-ll)
 - [Project Planning](https://github.com/IBM-EPBL/IBM-Project-30133-1660140562/tree/main/Project%20Design%20%26%20Planning/Project%20Planning)
+
+
+## Project Development Phase
+
+- [Delivery of Sprints](https://github.com/IBM-EPBL/IBM-Project-30133-1660140562/tree/main/Project%20Development%20Phase/Delivery%20of%20Sprints)
+  - [Sprint 1](https://github.com/IBM-EPBL/IBM-Project-30133-1660140562/tree/main/Project%20Development%20Phase/Delivery%20of%20Sprints/Sprint%201)
+  - [Sprint 2](https://github.com/IBM-EPBL/IBM-Project-30133-1660140562/tree/main/Project%20Development%20Phase/Delivery%20of%20Sprints/Sprint%202)
+  - [Sprint 3](https://github.com/IBM-EPBL/IBM-Project-30133-1660140562/tree/main/Project%20Development%20Phase/Delivery%20of%20Sprints/Sprint%203)
+  - [Sprint 4](https://github.com/IBM-EPBL/IBM-Project-30133-1660140562/tree/main/Project%20Development%20Phase/Delivery%20of%20Sprints/Sprint%204)
+- [Performance Testing](https://github.com/IBM-EPBL/IBM-Project-30133-1660140562/tree/main/Project%20Development%20Phase/Performance%20Testing)
+- [User Acceptance Testing](https://github.com/IBM-EPBL/IBM-Project-30133-1660140562/tree/main/Project%20Development%20Phase/User%20Acceptance%20Testing)
+
+
+## Final Deliverables
+
+- [Demo link](https://github.com/IBM-EPBL/IBM-Project-30133-1660140562/tree/main/Final%20Deliverables/Demo%20link)
+- [Project Report](https://github.com/IBM-EPBL/IBM-Project-30133-1660140562/tree/main/Final%20Deliverables/Project%20Report)
+- [Source code](https://github.com/IBM-EPBL/IBM-Project-30133-1660140562/tree/main/Final%20Deliverables/Source%20code)
+
 
 ## Tech Stack
 
