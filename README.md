@@ -56,7 +56,7 @@ M.I.E.T ENGINEERING COLLEGE
 
 - [Ideation Phase](https://github.com/IBM-EPBL/IBM-Project-30133-1660140562/tree/main/Project%20Design%20%26%20Planning/Ideation%20Phase)
 - [Project Design Phase-l](https://github.com/IBM-EPBL/IBM-Project-30133-1660140562/tree/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase-l)
-- [Project Design Phase ll](https://github.com/IBM-EPBL/IBM-Project-30133-1660140562/tree/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase-ll)
+- [Project Design Phase-ll](https://github.com/IBM-EPBL/IBM-Project-30133-1660140562/tree/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase-ll)
 - [Project Planning](https://github.com/IBM-EPBL/IBM-Project-30133-1660140562/tree/main/Project%20Design%20%26%20Planning/Project%20Planning)
 
 
