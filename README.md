@@ -80,9 +80,9 @@ M.I.E.T ENGINEERING COLLEGE
 
 ## Tech Stack
 
-**TOOLS USED:** IBM cloud computing
+**TOOLS USED:** IBM cloud computing, MIT App Inventer
 
-**LANGUAGE USED:** C. Visual Basic (Windows systems only) COBOL
+**LANGUAGE USED:** C. Visual Basic (Windows systems only) COBOL, Python
 
 
 ## Feedback
